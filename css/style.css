@@ -1,0 +1,29 @@
+body {
+    background: #ebeff2;
+}
+
+#canvas, .canvas {
+    border: 5px solid #dcdcdc;
+}
+
+.card-box {
+    padding: 15px;
+    border: 1px solid rgba(54, 64, 74, 0.05);
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    background-clip: padding-box;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+}
+
+.caption {
+    background-color: rgb(216, 224, 230);
+    text-align: center;
+    padding: 5px;
+    color: #868686;
+}
+
+h1 {
+    text-align: center;
+}
